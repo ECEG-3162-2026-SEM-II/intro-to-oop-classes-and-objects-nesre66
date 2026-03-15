@@ -18,8 +18,8 @@ public class Main {
         // Print the details to the console using your getter methods
         System.out.println("--- Student Enrollment List ---");
         // System.out.println("Student Name: " + s1.getName());
-        // System.out.println("Student Name: " + s1.getName());
-        // System.out.println("Student Name: " + s2.getName());
+        System.out.println("Student Name: " + s1.getName());
+        System.out.println("Student Name: " + s2.getName());
 
         System.out.println("\nAssignment Status: Check your Git commits before pushing!");
     }
