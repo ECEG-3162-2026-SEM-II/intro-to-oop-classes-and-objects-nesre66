@@ -8,14 +8,18 @@ public class Main {
         // --- TODO: Step 2 ---
         // Instantiate your first student object here
         // Example: Student s1 = new Student("Abebe Kassa", 12345);
+        Student s1 = new Student ("Nesredin",1233);
 
         // --- TODO: Step 3 ---
         // Instantiate your second student object here
+        Student s2 = new Student ("Muhammed",1244);
         
         // --- TODO: Step 4 ---
         // Print the details to the console using your getter methods
         System.out.println("--- Student Enrollment List ---");
         // System.out.println("Student Name: " + s1.getName());
+        // System.out.println("Student Name: " + s1.getName());
+        // System.out.println("Student Name: " + s2.getName());
 
         System.out.println("\nAssignment Status: Check your Git commits before pushing!");
     }
